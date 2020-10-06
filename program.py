@@ -1,2 +1,2 @@
-from PyQt5 import *
-import sys 
+a = 'dfdfdffdfdfd'
+print(a[1:3])
